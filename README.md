@@ -1,5 +1,5 @@
 # QiitaImgSizeChanger
-Qiita記事の画像サイズを一発変換
+Qiita/Github記事の画像サイズを一発変換
 
 Markdownの画像コードを[⌘+C]でコピーすると幅を指定可能な\<img src width>タグへ一発変換します
 
